@@ -8,7 +8,7 @@ STM32 CUBE IDE, Proteus 8 simulator .
 
 
 ## Procedure :
-###STEP 1
+### STEP 1
 click on STM 32 CUBE IDE, the following screen will appear
 ### STEP 2
 click on FILE, click on new stm 32 project
